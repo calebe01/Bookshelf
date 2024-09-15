@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.2.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.0"
+  }
+}

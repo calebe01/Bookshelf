@@ -1,0 +1,142 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "releaseDate": "1949-06-08",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "releaseDate": "1960-07-11",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "1925-04-10",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "releaseDate": "1813-01-28",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "releaseDate": "1951-07-16",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "releaseDate": "1851-10-18",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "releaseDate": "1869-01-01",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "releaseDate": "1937-09-21",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "releaseDate": "1932-08-01",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "1866-01-01",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "releaseDate": "1884-12-10",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "releaseDate": "1954-07-29",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "releaseDate": "1988-05-01",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "releaseDate": "1847-10-16",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "releaseDate": "1818-01-01",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "releaseDate": "1890-07-01",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "releaseDate": "1897-05-26",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "releaseDate": "1950-10-16",
+    "checkbox": false,
+    "read": true
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "releaseDate": "1945-08-17",
+    "checkbox": false,
+    "read": false
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "releaseDate": "1847-12-01",
+    "checkbox": false,
+    "read": false
+  }
+]
